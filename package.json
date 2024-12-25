@@ -14,5 +14,8 @@
     "@prisma/client": "^6.1.0",
     "@types/http-errors": "^2.0.4",
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
   }
 }
